@@ -1,2 +1,2 @@
 # SCSS_Default
-Default scss for star project
+Default scss for start project
